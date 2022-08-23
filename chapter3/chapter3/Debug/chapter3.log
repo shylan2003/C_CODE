@@ -1,0 +1,3 @@
+﻿  platinum.cpp
+C:\biancheng\c\chapter3\chapter3\platinum.cpp(14,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  chapter3.vcxproj -> C:\biancheng\c\chapter3\Debug\chapter3.exe
